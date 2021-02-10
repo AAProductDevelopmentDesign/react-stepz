@@ -115,21 +115,13 @@ function App() {
 export default App;
 ```
 
-## Available Props
-
-* startingStep (`number`) - the index of the step at which to start
-* steps (`ProgressStep[]`) - array of steps with each step containing a label, name and content
-* wrapperClass (`string`) - CSS class name for progress wrapper element
-* progressClass (`string`) - CSS class name for progress bar element
-* stepClass (`string`) - CSS class name for step indicator
-* contentClass (`string`) - CSS class name for step content element
-* buttonWrapperClass (`string`) - CSS class name for action buttons wrapper element
-* primaryBtnClass (`string`) - CSS class name for primary themed button
-* secondaryBtnClass (`string`) - CSS class name for secondary themed button
-
 ## Show your support
 
+Go to the original project and 
 Give a ⭐️ if this project helped you!
+
+Original: https://github.com/saini-g/react-step-progress
+Forked: https://github.com/r-bt/react-stepz/commit/3900d2b83e0747d13b8bf3e962831208a26157f3
 
 ## CONTRIBUTING & CODE OF CONDUCT
 
